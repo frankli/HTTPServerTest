@@ -1,0 +1,3 @@
+[submodule "nanohttpd"]
+	path = nanohttpd
+	url = git@github.com:frankli/nanohttpd.git
